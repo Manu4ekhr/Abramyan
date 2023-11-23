@@ -2,15 +2,10 @@ package begin1_40
 
 import "fmt"
 
-const pi = 3.14
+const Pi = 3.14
 
-func Begin14(l float64, r float64, s float64) {
-	l = 2 * pi * r
-	s = pi * r * r
-	fmt.Println("Введите длину окружности: ")
-	fmt.Println("Введите значение для радиуса: ")
-	fmt.Println("Введите значение для площади: ")
-	fmt.Scan(&l)
-	fmt.Scan(&r)
-	fmt.Scan(&s)
+func Begin14(r float64) {
+	l := 2 * Pi * r
+	s := Pi * r * r
+	fmt.Printf("Длина окружности: %v \nПлощадь окружности: %v", l, s)
 }

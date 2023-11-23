@@ -10,8 +10,8 @@ func main() {
 	//begin1_40.Begin7()
 	//begin1_40.Begin8()
 	//begin1_40.Begin9()
-	begin1_40.Begin10(4, 2)
-	//begin1_40.Begin14()
+	//begin1_40.Begin10(4, 2)
+	begin1_40.Begin14(1)
 	//array1_140.Array1()
 	//array1_140.Array2()
 	//array1_140.Array3()
@@ -25,4 +25,5 @@ func main() {
 	//if1_30.If2(-3)
 	//if1_30.If3(-5)
 	//if1_30.If4(2, -3, 4)
+	//for1_40.For2(5, 10)
 }
