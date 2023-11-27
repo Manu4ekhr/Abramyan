@@ -28,6 +28,7 @@ func Abs(a int) {
 
 func Begin11(a, b int) {
 	Summ(a, b)
+	Diff(a, b)
 	Mult(a, b)
 	Div(a, b)
 	Abs(a)
