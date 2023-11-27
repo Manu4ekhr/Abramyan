@@ -25,3 +25,10 @@ func Abs(a int) {
 	}
 	fmt.Println(result)
 }
+
+func Begin11(a, b int) {
+	Summ(a, b)
+	Mult(a, b)
+	Div(a, b)
+	Abs(a)
+}
