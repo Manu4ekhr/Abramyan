@@ -1,6 +1,6 @@
 package main
 
-import "ZadachiAbramyan/begin1_40"
+import "ZadachiAbramyan/if1_30"
 
 func main() {
 	//begin1_40.Begin1(5)
@@ -32,7 +32,7 @@ func main() {
 	//begin1_40.Begin31(100)
 	//begin1_40.Begin32(70)
 	//begin1_40.Begin33(1, 400, 10)
-	begin1_40.Begin34(1, 30, 1, 20)
+	//begin1_40.Begin34(1, 30, 1, 20)
 	//array1_140.Array1()
 	//array1_140.Array2()
 	//array1_140.Array3()
@@ -45,6 +45,12 @@ func main() {
 	//if1_30.If1(-10)
 	//if1_30.If2(-3)
 	//if1_30.If3(-5)
-	//if1_30.If4(2, -3, 4)
+	//if1_30.If4(-1, -12, 2)
+	//if1_30.If5(0, -5, 18)
+	//if1_30.If6(7.40, 9.61)
+	//if1_30.If7(-5.10, 0.23)
+	//if1_30.If8(4.71, 5.51)
+	//if1_30.If9(-4.57, 4.70)
+	if1_30.If10(29, 35)
 	//for1_40.For2(5, 10)
 }
