@@ -1,7 +1,5 @@
 package main
 
-import "ZadachiAbramyan/if1_30"
-
 func main() {
 	//begin1_40.Begin1(5)
 	//begin1_40.Begin4()
@@ -51,6 +49,7 @@ func main() {
 	//if1_30.If7(-5.10, 0.23)
 	//if1_30.If8(4.71, 5.51)
 	//if1_30.If9(-4.57, 4.70)
-	if1_30.If10(29, 35)
+	//if1_30.If10(29, 35)
+	//if1_30.If11(2, 2)
 	//for1_40.For2(5, 10)
 }
