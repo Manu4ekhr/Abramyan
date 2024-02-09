@@ -1,5 +1,7 @@
 package main
 
+import "ZadachiAbramyan/case1_20"
+
 func main() {
 	//begin1_40.Begin1(5)
 	//begin1_40.Begin4()
@@ -51,5 +53,9 @@ func main() {
 	//if1_30.If9(-4.57, 4.70)
 	//if1_30.If10(29, 35)
 	//if1_30.If11(2, 2)
+	//if1_30.If12(-4.59, -3.94, 0.91)
+	//if1_30.If13(-4.97, 3.05, -7.00)
+	//if1_30.If14(10, 20, 5)
+	case1_20.Case1(7)
 	//for1_40.For2(5, 10)
 }
