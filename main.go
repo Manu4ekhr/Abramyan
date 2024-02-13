@@ -1,6 +1,6 @@
 package main
 
-import "ZadachiAbramyan/case1_20"
+import "ZadachiAbramyan/for1_40"
 
 func main() {
 	//begin1_40.Begin1(5)
@@ -65,6 +65,13 @@ func main() {
 	//case1_20.Case7(5, 3.74)
 	//case1_20.Case8(1, 5)
 	//case1_20.Case9(16, 2)
-	case1_20.Case10(1, 1)
+	//case1_20.Case10(1, 1)
+	//for1_40.For1(2, 10)
 	//for1_40.For2(5, 10)
+	//for1_40.For5(68.40)
+	//for1_40.For6(45.10)
+	//for1_40.For7(4, 5)
+	//for1_40.For8(-7, -5)
+	//for1_40.For9(2, 4)
+	for1_40.For10(1)
 }
