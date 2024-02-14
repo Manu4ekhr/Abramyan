@@ -1,7 +1,5 @@
 package main
 
-import "ZadachiAbramyan/for1_40"
-
 func main() {
 	//begin1_40.Begin1(5)
 	//begin1_40.Begin4()
@@ -73,5 +71,9 @@ func main() {
 	//for1_40.For7(4, 5)
 	//for1_40.For8(-7, -5)
 	//for1_40.For9(2, 4)
-	for1_40.For10(1)
+	//for1_40.For10(1)
+	//for1_40.For11(3)
+	//for1_40.For12(7)
+	//for1_40.For13(4)
+	//for1_40.For14(6)
 }
