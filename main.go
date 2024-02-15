@@ -31,6 +31,8 @@ func main() {
 	//begin1_40.Begin32(70)
 	//begin1_40.Begin33(1, 400, 10)
 	//begin1_40.Begin34(1, 30, 1, 20)
+	//integer1_30.Integer19(533)
+	//boolean1_40.Boolean16(576)
 	//array1_140.Array1()
 	//array1_140.Array2()
 	//array1_140.Array3()
